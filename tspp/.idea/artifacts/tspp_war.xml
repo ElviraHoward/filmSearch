@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tspp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tsp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tspp:war exploded" />
+    </root>
+  </artifact>
+</component>
